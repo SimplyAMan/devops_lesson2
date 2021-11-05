@@ -1,1 +1,3 @@
-DevOps class. Lesson 2.
+DevOps class. 
+- Lesson 2.
+- Lesson 3.
